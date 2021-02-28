@@ -10,3 +10,7 @@ Operaciones del objeto:
 - SumarEst(n), aumenta en n la cantidad de estudiantes de la carrera
 - RestarEst(n), disminuye en n la cantidad de estudiantes de la carrera
 - CambiarNombre(nNom), cambia el nombre de la carrera a nNom
+
+
+
+otro comentario para ver en github
