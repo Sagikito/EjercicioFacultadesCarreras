@@ -1,0 +1,12 @@
+TAD Universidad
+Datos minimos:
+- Nombre, cadena de caracteres, nombre de la Universidad
+- Facultades, sequencia de Facultad, conjunto de facultades de la Universidad
+Operaciones del objeto:
+- ObtenerNombre(), retorna el nombre de la carrera
+- UTotalEst(), retorna la cantidad de estudiantes de la Universidad
+- AgregarFacultad(NomFac), agrega la facultad NomFac a la secuencia de facultades
+- EliminarFacultad(NomFac), elimina la facultad NomFac de la secuencia de facultades
+- AgregarCarrera(NomFac, NomCarrera, NumEst), Agrega NomCarrera a NomFac
+- EliminarCarrera(NomCarrera), Elimina la carrera NomCarrera de la Universidad
+- ImprimirUniversidad(), imprime las facultades y carreras de la universidad.

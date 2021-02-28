@@ -1,0 +1,10 @@
+TAD Facultad
+Datos minimos:
+- Nombre, cadena de caracteres, nombre de la facultad
+- Carreras, sequencia de Carrera, conjunto de carreras de la facultad
+Operaciones del objeto:
+- ObtenerNombre(), retorna el nombre de la carrera
+- TotalEst(), retorna la cantidad de estudiantes de la facultad
+- AgregarCarrera(NomCarrera, NumEst), agrega una nueva carrera de nombre NomCarrera 
+y numero de estudiantes NumEst. 
+- ImprimirCarreras(), imprime las carreras de la Facultad. 

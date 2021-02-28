@@ -1,0 +1,12 @@
+Este es el disenno del objeto llamado Carrera
+
+TAD Carrera
+Datos minimos:
+- Nombre, cadena de caracteres, nombre de la carrera
+- CantEst, entero no negativo, cantidad de estudiantes de la carrera
+Operaciones del objeto:
+- ObtenerNombre(), retorna el nombre de la carrera
+- ObtenerCantEst() retorna la cantidad de estudiantes de la carrera
+- SumarEst(n), aumenta en n la cantidad de estudiantes de la carrera
+- RestarEst(n), disminuye en n la cantidad de estudiantes de la carrera
+- CambiarNombre(nNom), cambia el nombre de la carrera a nNom
